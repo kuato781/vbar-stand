@@ -3,7 +3,7 @@ module add_material() {}
 module remove_material() {}
 difference() {
     union() {
-        import("mesh/VBar-SMUT-detent-ring.stl",convexity=10);
+        import("VBar-SMUT-detent-ring.stl",convexity=10);
         add_material();
     }
     remove_material();

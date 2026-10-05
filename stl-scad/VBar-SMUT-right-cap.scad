@@ -1,9 +1,9 @@
-// Fit-tested 2.3 cap; editable dimensional source is generate_core.py.
+// Fit-tested 2.3 cap; the final STL is authoritative.
 module add_material() {}
 module remove_material() {}
 difference() {
     union() {
-        import("mesh/VBar-SMUT-right-cap.stl",convexity=10);
+        import("VBar-SMUT-right-cap.stl",convexity=10);
         add_material();
     }
     remove_material();
