@@ -34,7 +34,7 @@ Check the printed M4 collar before pressing its insert. Clean up a rough opening
 
 ## Stage 1 - Build the left and right pivot assemblies
 
-![Stage 1: VBar case bodies, pivot stubs, ring and hardware](../exploded-view/images/step1.png)
+![Illustrated Stage 1: VBar case bodies, pivot stubs, ring and hardware](../exploded-view/images/step1.png)
 
 1. Identify the **right** case body, right detent pivot stub and replaceable detent ring. Seat the ring on the stub's keyed support face, aligning the asymmetric key. Its detent pockets must face the right case body's ball-plunger bore.
 2. Slide the right pivot stub onto the right case body's pivot sleeve. Install an **M4 × 20 mm** pivot screw, M4 washer and M4 Nyloc nut.
@@ -44,7 +44,7 @@ Check the printed M4 collar before pressing its insert. Clean up a rough opening
 
 ## Stage 2 - Fit the VBar handle clamps
 
-![Stage 2: VBar handle clamps](../exploded-view/images/step2.png)
+![Illustrated Stage 2: VBar cap and case assemblies around the handle](../exploded-view/images/step2.png)
 
 1. Clean the two clamp locations on the metal handle. Apply a **thin, narrow strip of double-sided tape to the top of the handle** at each location. Keep the tape clear of the controls and visible handle opening.
 2. Place each case body at its matching left/right location on the curved handle. Seat the handle in the shaped channel.
@@ -55,7 +55,7 @@ At this point the halves may feel a little wiggly even though the channel and sc
 
 ## Stage 3 - Attach, square and tighten the V/BAR stand
 
-![Stage 3: V/BAR stand on the actual radio](../exploded-view/images/step3.png)
+![Illustrated Stage 3: V/BAR stand and keyed pivot mounts](../exploded-view/images/step3.png)
 
 1. Align the stand/header's two keyed recesses with the square mounting blocks on the pivot stubs. The centers are **40 mm apart**. Seat both blocks fully; the keys carry the twisting and shear loads.
 2. Insert one **M3 × 8 mm button-head screw and M3 washer** at each header mount into the pivot block's M3 insert. Leave both stand screws slightly loose while aligning.
